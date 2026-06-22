@@ -1,53 +1,53 @@
 <div align="center">
 
-# Hola, soy Favio
+# Hi, I'm Favio
 
-### Desarrollador web enfocado en crear sitios rápidos, claros y útiles para negocios reales.
+### Web developer focused on building fast, clear, and useful websites for real businesses.
 
-[![Portfolio](https://img.shields.io/badge/Proyecto_en_vivo-Cl%C3%ADnica_Dental_JH-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clinicadentaljh.com/)
+[![Portfolio](https://img.shields.io/badge/Live_Project-Cl%C3%ADnica_Dental_JH-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clinicadentaljh.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Biofa4523-181717?style=for-the-badge&logo=github)](https://github.com/Biofa4523)
 
 </div>
 
-## Sobre mí
+## About Me
 
-- Desarrollo experiencias web responsivas para pequeñas empresas.
-- Me enfoco en rendimiento, accesibilidad, SEO y una navegación sencilla.
-- Trabajo desde El Salvador y construyo proyectos para clientes locales e internacionales.
-- Actualmente sigo mejorando mis habilidades de frontend y despliegue web.
+- I build responsive web experiences for small businesses.
+- I focus on performance, accessibility, SEO, and intuitive navigation.
+- I am based in El Salvador and build projects for local and international clients.
+- I am currently expanding my frontend development and web deployment skills.
 
-## Tecnologías
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,cloudflare&perline=6" alt="HTML, CSS, JavaScript, Git, GitHub y Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,cloudflare&perline=6" alt="HTML, CSS, JavaScript, Git, GitHub, and Cloudflare" />
 </p>
 
-## Proyectos destacados
+## Featured Projects
 
 ### Clínica Dental JH
 
-Sitio web comercial para una clínica dental en Lourdes Colón, El Salvador. Incluye diseño responsivo, SEO local, datos estructurados, optimización para redes sociales e integración con WhatsApp.
+Business website for a dental clinic in Lourdes Colón, El Salvador. It features responsive design, local SEO, structured data, social media optimization, and WhatsApp integration.
 
-**Tecnologías:** HTML, CSS, JavaScript, Cloudflare Pages  
-**Sitio:** [clinicadentaljh.com](https://clinicadentaljh.com/)  
-**Código:** [github.com/Biofa4523/ej-web](https://github.com/Biofa4523/ej-web)
+**Technologies:** HTML, CSS, JavaScript, Cloudflare Pages  
+**Live site:** [clinicadentaljh.com](https://clinicadentaljh.com/)  
+**Source code:** [github.com/Biofa4523/ej-web](https://github.com/Biofa4523/ej-web)
 
 ### EJ General Construction
 
-Sitio web responsivo para una empresa de construcción y remodelación en Dallas, Texas. Diseñado para presentar servicios de forma clara y facilitar el contacto de clientes potenciales.
+Responsive website for a construction and remodeling company in Dallas, Texas. Designed to present services clearly and help potential customers get in touch.
 
-**Tecnologías:** HTML, CSS, JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
-## En qué estoy trabajando
+## What I'm Working On
 
 ```text
-Frontend        Interfaces responsivas y accesibles
-SEO             Metadatos, datos estructurados y rendimiento
-Deployment      GitHub y Cloudflare Pages
+Frontend        Responsive and accessible interfaces
+SEO             Metadata, structured data, and performance
+Deployment      GitHub and Cloudflare Pages
 ```
 
 ---
 
 <div align="center">
-  <sub>Disponible para colaborar en proyectos web.</sub>
+  <sub>Available to collaborate on web projects.</sub>
 </div>
