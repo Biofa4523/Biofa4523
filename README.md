@@ -1,53 +1,96 @@
 <div align="center">
+  <img src="./assets/retro-header.svg" width="100%" alt="Favio - web developer and Google Workspace administrator" />
+</div>
 
-# Hi, I'm Favio
+<div align="center">
 
-### Web developer focused on building fast, clear, and useful websites for real businesses.
-
-[![Portfolio](https://img.shields.io/badge/Live_Project-Cl%C3%ADnica_Dental_JH-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clinicadentaljh.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Biofa4523-181717?style=for-the-badge&logo=github)](https://github.com/Biofa4523)
+[![Portfolio](https://img.shields.io/badge/▶_LIVE_SITE-CLINICA_DENTAL_JH-39ff14?style=for-the-badge&labelColor=090b10)](https://clinicadentaljh.com/)
+[![GitHub](https://img.shields.io/badge/$_GITHUB-BIOFA4523-00e5ff?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=090b10)](https://github.com/Biofa4523)
 
 </div>
 
-## About Me
+```console
+C:\USERS\GUEST> whoami
 
-- I build responsive web experiences for small businesses.
-- I focus on performance, accessibility, SEO, and intuitive navigation.
-- I am based in El Salvador and build projects for local and international clients.
-- I am currently expanding my frontend development and web deployment skills.
+Favio // Web Developer // Google Workspace Administrator
 
-## Tech Stack
+C:\USERS\GUEST> type mission.txt
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,cloudflare&perline=6" alt="HTML, CSS, JavaScript, Git, GitHub, and Cloudflare" />
-</p>
+I build fast, accessible websites that help real businesses get found,
+earn trust, and turn visits into conversations.
+```
 
-## Featured Projects
+## `> SYSTEM_PROFILE`
 
-### Clínica Dental JH
+```text
+LOCATION ........ El Salvador
+FOCUS ........... Responsive web experiences for small businesses
+PRIORITIES ...... Performance / Accessibility / SEO / Clear navigation
+STATUS .......... Building for local and international clients
+```
 
-Business website for a dental clinic in Lourdes Colón, El Salvador. It features responsive design, local SEO, structured data, social media optimization, and WhatsApp integration.
+## `> CERTIFICATIONS`
 
-**Technologies:** HTML, CSS, JavaScript, Cloudflare Pages  
-**Live site:** [clinicadentaljh.com](https://clinicadentaljh.com/)  
-**Source code:** [github.com/Biofa4523/ej-web](https://github.com/Biofa4523/ej-web)
+<table>
+  <tr>
+    <td width="72" align="center">🏅</td>
+    <td>
+      <strong>Associate Google Workspace Administrator</strong><br />
+      <sub>Google Cloud Certification</sub>
+    </td>
+  </tr>
+</table>
 
-### EJ General Construction
+[![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-CERTIFIED-ffcc00?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=090b10)](https://cloud.google.com/learn/certification/google-workspace-administrator)
+
+## `> TECH_STACK`
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-090b10?style=for-the-badge&logo=html5&logoColor=ff5f56)
+![CSS3](https://img.shields.io/badge/CSS3-090b10?style=for-the-badge&logo=css&logoColor=00e5ff)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-090b10?style=for-the-badge&logo=javascript&logoColor=ffcc00)
+![Git](https://img.shields.io/badge/GIT-090b10?style=for-the-badge&logo=git&logoColor=ff5f56)
+![GitHub](https://img.shields.io/badge/GITHUB-090b10?style=for-the-badge&logo=github&logoColor=ffffff)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-090b10?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+
+</div>
+
+## `> FEATURED_PROJECTS`
+
+### `[01] CLINICA_DENTAL_JH`
+
+Business website for a dental clinic in Lourdes Colon, El Salvador. Built with responsive design, local SEO, structured data, social media optimization, and WhatsApp integration.
+
+`HTML` `CSS` `JavaScript` `Cloudflare Pages`
+
+[![Open Website](https://img.shields.io/badge/OPEN_WEBSITE-39ff14?style=flat-square&labelColor=090b10)](https://clinicadentaljh.com/)
+[![View Source](https://img.shields.io/badge/VIEW_SOURCE-00e5ff?style=flat-square&logo=github&logoColor=00e5ff&labelColor=090b10)](https://github.com/Biofa4523/ej-web)
+
+### `[02] EJ_GENERAL_CONSTRUCTION`
 
 Responsive website for a construction and remodeling company in Dallas, Texas. Designed to present services clearly and help potential customers get in touch.
 
-**Technologies:** HTML, CSS, JavaScript
+`HTML` `CSS` `JavaScript`
 
-## What I'm Working On
+## `> CURRENT_OBJECTIVES`
 
 ```text
-Frontend        Responsive and accessible interfaces
-SEO             Metadata, structured data, and performance
-Deployment      GitHub and Cloudflare Pages
+[████████░░]  Frontend   Responsive and accessible interfaces
+[███████░░░]  SEO        Metadata, structured data, performance
+[████████░░]  Deployment GitHub and Cloudflare Pages
 ```
 
 ---
 
 <div align="center">
-  <sub>Available to collaborate on web projects.</sub>
+
+```text
+*** AVAILABLE FOR WEB PROJECTS ***
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Biofa4523&style=flat-square&color=39ff14&label=VISITORS)
+
+<sub>BEST VIEWED WITH CURIOSITY // LAST SYSTEM CHECK: ONLINE</sub>
+
 </div>
