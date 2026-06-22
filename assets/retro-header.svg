@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="title desc">
+  <title id="title">Favio, web developer</title>
+  <desc id="desc">A retro computer terminal introducing Favio as a web developer and Google Workspace administrator.</desc>
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1016"/>
+      <stop offset="1" stop-color="#050608"/>
+    </linearGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity=".22"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="310" rx="18" fill="#090b10"/>
+  <rect x="4" y="4" width="892" height="302" rx="15" fill="none" stroke="#252a34" stroke-width="8"/>
+  <rect x="22" y="22" width="856" height="266" rx="8" fill="url(#screen)" stroke="#39ff14" stroke-opacity=".45"/>
+
+  <circle cx="48" cy="46" r="7" fill="#ff5f56"/>
+  <circle cx="70" cy="46" r="7" fill="#ffbd2e"/>
+  <circle cx="92" cy="46" r="7" fill="#27c93f"/>
+  <text x="450" y="51" text-anchor="middle" fill="#69707d" font-family="monospace" font-size="14">BIOFA_OS v1.0 // TERMINAL</text>
+  <line x1="22" y1="66" x2="878" y2="66" stroke="#252a34"/>
+
+  <g font-family="monospace">
+    <text x="55" y="103" fill="#00e5ff" font-size="17">guest@github:~$ ./introduce.sh</text>
+    <text x="55" y="150" fill="#39ff14" font-size="42" font-weight="700" filter="url(#glow)">HI, I'M FAVIO_</text>
+    <text x="57" y="188" fill="#e6edf3" font-size="20">WEB DEVELOPER  //  PROBLEM SOLVER</text>
+    <text x="57" y="222" fill="#ffcc00" font-size="17">[CERTIFIED] Associate Google Workspace Administrator</text>
+    <text x="57" y="258" fill="#69707d" font-size="15">EL SALVADOR  |  HTML · CSS · JAVASCRIPT · CLOUDFLARE</text>
+  </g>
+
+  <rect x="22" y="22" width="856" height="266" rx="8" fill="url(#scanlines)" pointer-events="none"/>
+</svg>

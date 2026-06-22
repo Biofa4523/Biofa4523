@@ -1,19 +1,6 @@
-```console
-+------------------------------------------------------------------------------+
-| BIOFA_OS v1.0                                           STATUS: [ ONLINE ]   |
-+------------------------------------------------------------------------------+
-|                                                                              |
-| guest@github:~$ ./introduce.sh                                               |
-|                                                                              |
-|  HI, I'M FAVIO_                                                              |
-|  WEB DEVELOPER  //  PROBLEM SOLVER                                           |
-|                                                                              |
-|  [CERTIFIED] Associate Google Workspace Administrator                        |
-|                                                                              |
-|  EL SALVADOR  |  HTML / CSS / JAVASCRIPT / CLOUDFLARE                        |
-|                                                                              |
-+------------------------------------------------------------------------------+
-```
+<div align="center">
+  <img src="./assets/retro-header.svg" width="100%" alt="Favio - web developer and Google Workspace administrator" />
+</div>
 
 <div align="center">
 
